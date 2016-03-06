@@ -1,0 +1,28 @@
+name: quran
+favicon: null
+layout_spectrum: 0.806415646802634
+typography_spectrum: 0.816376939881593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8586056241765618
+  lightness: 0.3669739405158907
+  saturation: 0.9530536811798811
+  rhythmicContrast: 0.16132717253640294
+purpose: []
